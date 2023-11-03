@@ -1,7 +1,7 @@
 # Como está seu dia?
-- 😄 Olá, eu sou o Vitor
+- 😄 Olá, eu sou o Vitor, tenho 25 anos.
 - 💻 Atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python
+- 🌱 bora aprender mais uma habilidade.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorcarvalho&show_icons=true&theme=transparent)
 
